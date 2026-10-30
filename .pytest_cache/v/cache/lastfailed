@@ -1,1 +1,3 @@
-{}
+{
+  "tests/test_inventario.py::test_stock_critico": true
+}
