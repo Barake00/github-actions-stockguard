@@ -1,4 +1,7 @@
 [
+  "tests/test_inventario.py::test_sobrestock_detectado",
+  "tests/test_inventario.py::test_sobrestock_invalido",
+  "tests/test_inventario.py::test_sobrestock_no_detectado",
   "tests/test_inventario.py::test_stock_agotado",
   "tests/test_inventario.py::test_stock_bajo",
   "tests/test_inventario.py::test_stock_critico",
