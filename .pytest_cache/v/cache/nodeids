@@ -1,0 +1,7 @@
+[
+  "tests/test_inventario.py::test_stock_agotado",
+  "tests/test_inventario.py::test_stock_bajo",
+  "tests/test_inventario.py::test_stock_critico",
+  "tests/test_inventario.py::test_stock_invalido",
+  "tests/test_inventario.py::test_stock_normal"
+]
